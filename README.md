@@ -4,6 +4,10 @@
 
 This project analyzes fuel economy trends for full-size SUVs from 2015 to 2025, focusing on the Toyota Sequoia and comparing it with the Chevrolet Tahoe, Ford Expedition, and GMC Yukon.
 
+## Dashboard Preview
+
+![Power BI Dashboard](images/powerbi_dashboard.png)
+
 ## Tools Used
 
 - Python (Pandas, Matplotlib) – data cleaning, filtering, analysis, and visualization
