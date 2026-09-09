@@ -1,0 +1,205 @@
+year,make,model,VClass,cylinders,displ,drive,fuelType,city08,highway08,comb08,fuelCost08
+2015,Chevrolet,Tahoe C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Gasoline or E85,16,23,18,3400
+2015,GMC,Yukon C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,Rear-Wheel Drive,Regular,15,21,17,3600
+2015,GMC,Yukon C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Gasoline or E85,16,23,18,3400
+2015,Chevrolet,Tahoe K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Gasoline or E85,16,22,18,3400
+2015,GMC,Yukon K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,4-Wheel Drive,Regular,14,21,16,3850
+2015,GMC,Yukon K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Gasoline or E85,16,22,18,3400
+2015,Chevrolet,Tahoe C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Regular,16,23,18,3400
+2015,GMC,Yukon C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Regular,16,23,18,3400
+2015,Chevrolet,Tahoe K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,16,22,18,3400
+2015,GMC,Yukon K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,16,22,18,3400
+2015,Toyota,Sequoia 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.7,Rear-Wheel Drive,Regular,13,18,15,4100
+2015,Toyota,Sequoia 4WD FFV,Standard Sport Utility Vehicle 4WD,8.0,5.7,Part-time 4-Wheel Drive,Gasoline or E85,13,17,15,4100
+2015,Toyota,Sequoia 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.7,Part-time 4-Wheel Drive,Regular,13,17,14,4400
+2015,Ford,Expedition 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.5,Rear-Wheel Drive,Regular,16,22,18,3400
+2015,Ford,Expedition 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.5,Part-time 4-Wheel Drive,Regular,15,20,17,3600
+2015,GMC,Yukon C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,Rear-Wheel Drive,Regular,15,22,17,3600
+2015,GMC,Yukon K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,4-Wheel Drive,Regular,15,21,17,3600
+2016,Chevrolet,Tahoe C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Gasoline or E85,16,23,18,3400
+2016,Chevrolet,Tahoe C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Regular,16,23,19,3250
+2016,GMC,Yukon C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Gasoline or E85,16,23,18,3400
+2016,GMC,Yukon C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Regular,16,23,19,3250
+2016,Chevrolet,Tahoe K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Gasoline or E85,16,22,18,3400
+2016,Chevrolet,Tahoe K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,16,22,18,3400
+2016,GMC,Yukon K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Gasoline or E85,16,22,18,3400
+2016,GMC,Yukon K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,16,22,18,3400
+2016,Ford,Expedition 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.5,Rear-Wheel Drive,Regular,16,22,18,3400
+2016,GMC,Yukon C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,Rear-Wheel Drive,Regular,15,22,17,3600
+2016,Ford,Expedition 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.5,Part-time 4-Wheel Drive,Regular,15,20,17,3600
+2016,GMC,Yukon K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,4-Wheel Drive,Regular,15,21,17,3600
+2016,Toyota,Sequoia 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.7,Rear-Wheel Drive,Regular,13,17,15,4100
+2016,Toyota,Sequoia 4WD FFV,Standard Sport Utility Vehicle 4WD,8.0,5.7,Part-time 4-Wheel Drive,Gasoline or E85,13,17,15,4100
+2016,Toyota,Sequoia 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.7,Part-time 4-Wheel Drive,Regular,13,17,14,4400
+2017,Ford,Expedition 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.5,Rear-Wheel Drive,Regular,15,21,18,3400
+2017,Ford,Expedition 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.5,Part-time 4-Wheel Drive,Regular,15,20,17,3600
+2017,Chevrolet,Tahoe C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Regular,16,23,19,3250
+2017,Chevrolet,Tahoe C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Gasoline or E85,16,23,19,3250
+2017,GMC,Yukon C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,Rear-Wheel Drive,Regular,15,22,17,3600
+2017,GMC,Yukon C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Regular,16,23,19,3250
+2017,GMC,Yukon C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Gasoline or E85,16,23,19,3250
+2017,Chevrolet,Tahoe K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,16,22,18,3400
+2017,Chevrolet,Tahoe K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Gasoline or E85,16,22,18,3400
+2017,GMC,Yukon K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,4-Wheel Drive,Regular,15,20,17,3600
+2017,GMC,Yukon K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,16,22,18,3400
+2017,GMC,Yukon K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Gasoline or E85,16,22,18,3400
+2017,Toyota,Sequoia 4WD FFV,Standard Sport Utility Vehicle 4WD,8.0,5.7,Part-time 4-Wheel Drive,Gasoline or E85,13,17,14,4400
+2017,Toyota,Sequoia 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.7,Rear-Wheel Drive,Regular,13,17,15,4100
+2017,Toyota,Sequoia 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.7,Part-time 4-Wheel Drive,Regular,13,17,14,4400
+2018,Chevrolet,Tahoe C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Regular,16,23,19,3250
+2018,Chevrolet,Tahoe C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Gasoline or E85,16,23,19,3250
+2018,GMC,Yukon C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,Rear-Wheel Drive,Premium,14,23,17,4450
+2018,GMC,Yukon C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Regular,16,23,19,3250
+2018,GMC,Yukon C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Gasoline or E85,16,23,19,3250
+2018,Chevrolet,Tahoe K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,4-Wheel Drive,Premium,14,22,17,4450
+2018,Chevrolet,Tahoe K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,16,22,18,3400
+2018,Chevrolet,Tahoe K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Gasoline or E85,16,22,18,3400
+2018,GMC,Yukon K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,4-Wheel Drive,Premium,14,22,17,4450
+2018,GMC,Yukon K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,16,22,18,3400
+2018,GMC,Yukon K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Gasoline or E85,16,22,18,3400
+2018,Chevrolet,Tahoe C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,Rear-Wheel Drive,Premium,14,23,17,4450
+2018,Toyota,Sequoia 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.7,Rear-Wheel Drive,Regular,13,17,15,4100
+2018,Toyota,Sequoia 4WD FFV,Standard Sport Utility Vehicle 4WD,8.0,5.7,Part-time 4-Wheel Drive,Gasoline or E85,13,17,14,4400
+2018,Toyota,Sequoia 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.7,Part-time 4-Wheel Drive,Regular,13,17,14,4400
+2018,Ford,Expedition 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.5,Rear-Wheel Drive,Regular,17,24,20,3100
+2018,Ford,Expedition 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.5,Part-time 4-Wheel Drive,Regular,17,22,19,3250
+2019,Chevrolet,Tahoe C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Regular,15,22,18,3400
+2019,Chevrolet,Tahoe C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Gasoline or E85,15,22,18,3400
+2019,GMC,Yukon C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Regular,15,22,18,3400
+2019,GMC,Yukon C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Gasoline or E85,15,22,18,3400
+2019,Chevrolet,Tahoe K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Gasoline or E85,15,21,17,3600
+2019,Chevrolet,Tahoe K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,15,21,17,3600
+2019,Chevrolet,Tahoe K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,4-Wheel Drive,Premium,14,22,17,4450
+2019,GMC,Yukon K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Gasoline or E85,15,21,17,3600
+2019,GMC,Yukon K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,15,21,17,3600
+2019,GMC,Yukon K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,4-Wheel Drive,Premium,14,22,17,4450
+2019,Chevrolet,Tahoe C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,Rear-Wheel Drive,Premium,14,23,17,4450
+2019,GMC,Yukon C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,Rear-Wheel Drive,Premium,14,23,17,4450
+2019,Toyota,Sequoia 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.7,Rear-Wheel Drive,Regular,13,17,15,4100
+2019,Toyota,Sequoia 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.7,Part-time 4-Wheel Drive,Regular,13,17,14,4400
+2019,Ford,Expedition 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.5,Rear-Wheel Drive,Regular,17,24,20,3100
+2019,Ford,Expedition 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.5,Part-time 4-Wheel Drive,Regular,17,22,19,3250
+2020,Chevrolet,Tahoe C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Gasoline or E85,15,22,18,3400
+2020,Chevrolet,Tahoe C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Regular,15,22,18,3400
+2020,Chevrolet,Tahoe C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,Rear-Wheel Drive,Premium,14,23,17,4450
+2020,GMC,Yukon C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Gasoline or E85,15,22,18,3400
+2020,GMC,Yukon C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Regular,15,22,18,3400
+2020,GMC,Yukon C1500 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,Rear-Wheel Drive,Premium,14,23,17,4450
+2020,Chevrolet,Tahoe K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,15,21,17,3600
+2020,Chevrolet,Tahoe K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Gasoline or E85,15,21,17,3600
+2020,Chevrolet,Tahoe K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,4-Wheel Drive,Premium,14,22,17,4450
+2020,GMC,Yukon K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Gasoline or E85,15,21,17,3600
+2020,GMC,Yukon K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,4-Wheel Drive,Premium,14,22,17,4450
+2020,GMC,Yukon K1500 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,15,21,17,3600
+2020,Toyota,Sequoia 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.7,Rear-Wheel Drive,Regular,13,17,15,4100
+2020,Toyota,Sequoia 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.7,Part-time 4-Wheel Drive,Regular,13,17,14,4400
+2020,Ford,Expedition 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.5,Rear-Wheel Drive,Regular,17,23,19,3250
+2020,Ford,Expedition 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.5,Part-time 4-Wheel Drive,Regular,17,22,19,3250
+2021,Chevrolet,Tahoe 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,Rear-Wheel Drive,Premium,15,20,17,4450
+2021,Chevrolet,Tahoe 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Regular,16,20,18,3400
+2021,GMC,Yukon 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,Rear-Wheel Drive,Premium,15,20,17,4450
+2021,GMC,Yukon 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Regular,16,20,18,3400
+2021,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,4-Wheel Drive,Premium,14,19,16,4750
+2021,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,16,20,18,3400
+2021,GMC,Yukon 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,4-Wheel Drive,Premium,14,19,16,4750
+2021,GMC,Yukon 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,16,20,18,3400
+2021,Toyota,Sequoia 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.7,Rear-Wheel Drive,Regular,13,17,15,4100
+2021,Toyota,Sequoia 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.7,Part-time 4-Wheel Drive,Regular,13,17,14,4400
+2021,Chevrolet,Tahoe 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.0,Rear-Wheel Drive,Diesel,21,28,24,3300
+2021,GMC,Yukon 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.0,Rear-Wheel Drive,Diesel,21,27,23,3450
+2021,Ford,Expedition 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.5,Rear-Wheel Drive,Regular,17,23,19,3250
+2021,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.0,4-Wheel Drive,Diesel,20,26,22,3600
+2021,Ford,Expedition 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.5,Part-time 4-Wheel Drive,Regular,17,22,19,3250
+2021,GMC,Yukon 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.0,4-Wheel Drive,Diesel,20,26,22,3600
+2021,Chevrolet,Tahoe 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,Rear-Wheel Drive,Premium,14,20,16,4750
+2021,Chevrolet,Tahoe 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Regular,15,20,17,3600
+2021,GMC,Yukon 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,Rear-Wheel Drive,Premium,14,20,16,4750
+2021,GMC,Yukon 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Regular,15,20,17,3600
+2021,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,4-Wheel Drive,Premium,13,19,16,4750
+2021,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,15,20,17,3600
+2021,GMC,Yukon 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,4-Wheel Drive,Premium,13,19,16,4750
+2021,GMC,Yukon 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,15,20,17,3600
+2022,Toyota,Sequoia 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.7,Rear-Wheel Drive,Regular,13,17,15,4100
+2022,Toyota,Sequoia 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.7,Part-time 4-Wheel Drive,Regular,13,17,14,4400
+2022,Chevrolet,Tahoe 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.0,Rear-Wheel Drive,Diesel,21,28,24,3300
+2022,GMC,Yukon 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.0,Rear-Wheel Drive,Diesel,21,27,23,3450
+2022,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.0,4-Wheel Drive,Diesel,20,26,22,3600
+2022,GMC,Yukon 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.0,4-Wheel Drive,Diesel,20,26,22,3600
+2022,Chevrolet,Tahoe 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Regular,15,20,17,3600
+2022,Chevrolet,Tahoe 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,Rear-Wheel Drive,Premium,14,20,16,4750
+2022,GMC,Yukon 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Regular,15,20,17,3600
+2022,GMC,Yukon 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,Rear-Wheel Drive,Premium,14,20,16,4750
+2022,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,4-Wheel Drive,Premium,14,19,16,4750
+2022,GMC,Yukon 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,14,19,16,3850
+2022,GMC,Yukon 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,4-Wheel Drive,Premium,14,19,16,4750
+2022,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,14,19,16,3850
+2022,Chevrolet,Tahoe 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Regular,15,20,17,3600
+2022,Chevrolet,Tahoe 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,Rear-Wheel Drive,Premium,14,20,16,4750
+2022,GMC,Yukon 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Regular,15,20,17,3600
+2022,GMC,Yukon 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,Rear-Wheel Drive,Premium,14,20,16,4750
+2022,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,15,20,17,3600
+2022,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,4-Wheel Drive,Premium,14,19,16,4750
+2022,GMC,Yukon 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,15,20,17,3600
+2022,GMC,Yukon 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,4-Wheel Drive,Premium,14,19,16,4750
+2022,Ford,Expedition 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.5,Rear-Wheel Drive,Regular,17,23,19,3250
+2022,Ford,Expedition 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.5,Rear-Wheel Drive,Regular,16,23,19,3250
+2022,Ford,Expedition 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.5,Part-time 4-Wheel Drive,Regular,16,22,18,3400
+2022,Ford,Expedition 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.5,Part-time 4-Wheel Drive,Regular,16,21,18,3400
+2022,Ford,Expedition Timberline AWD,Standard Sport Utility Vehicle 4WD,6.0,3.5,Part-time 4-Wheel Drive,Regular,15,19,17,3600
+2022,Ford,Expedition Timberline AWD,Standard Sport Utility Vehicle 4WD,6.0,3.5,Part-time 4-Wheel Drive,Regular,16,19,17,3600
+2023,Chevrolet,Tahoe 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.0,Rear-Wheel Drive,Diesel,21,28,24,3300
+2023,GMC,Yukon 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.0,Rear-Wheel Drive,Diesel,21,27,23,3450
+2023,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.0,4-Wheel Drive,Diesel,20,26,22,3600
+2023,GMC,Yukon 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.0,4-Wheel Drive,Diesel,20,26,22,3600
+2023,Chevrolet,Tahoe 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,Rear-Wheel Drive,Premium,14,20,16,4750
+2023,Chevrolet,Tahoe 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Regular,15,20,17,3600
+2023,GMC,Yukon 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,Rear-Wheel Drive,Premium,14,20,16,4750
+2023,GMC,Yukon 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Regular,15,20,17,3600
+2023,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,4-Wheel Drive,Premium,14,18,16,4750
+2023,GMC,Yukon 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,15,20,17,3600
+2023,GMC,Yukon 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,4-Wheel Drive,Premium,14,18,16,4750
+2023,Toyota,Sequoia 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.4,Rear-Wheel Drive,Regular,21,24,22,2800
+2023,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,15,20,17,3600
+2023,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,14,18,16,3850
+2023,Toyota,Sequoia 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.4,Part-time 4-Wheel Drive,Regular,19,22,20,3100
+2023,Ford,Expedition 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.5,Rear-Wheel Drive,Regular,17,23,19,3250
+2023,Ford,Expedition 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.5,Rear-Wheel Drive,Regular,16,23,19,3250
+2023,Ford,Expedition 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.5,Part-time 4-Wheel Drive,Regular,16,22,18,3400
+2023,Ford,Expedition 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.5,Part-time 4-Wheel Drive,Regular,16,21,18,3400
+2023,Ford,Expedition Timberline AWD,Standard Sport Utility Vehicle 4WD,6.0,3.5,Part-time 4-Wheel Drive,Regular,16,19,17,3600
+2023,Ford,Expedition Timberline AWD,Standard Sport Utility Vehicle 4WD,6.0,3.5,Part-time 4-Wheel Drive,Regular,15,19,17,3600
+2024,Ford,Expedition 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.5,Rear-Wheel Drive,Regular,17,23,19,3250
+2024,Toyota,Sequoia 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.4,Rear-Wheel Drive,Regular,21,24,22,2800
+2024,Ford,Expedition 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.5,Part-time 4-Wheel Drive,Regular,16,22,18,3400
+2024,Ford,Expedition Timberline AWD,Standard Sport Utility Vehicle 4WD,6.0,3.5,Part-time 4-Wheel Drive,Regular,16,19,17,3600
+2024,Toyota,Sequoia 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.4,Part-time 4-Wheel Drive,Regular,19,22,20,3100
+2024,Chevrolet,Tahoe 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Regular,15,20,17,3600
+2024,Chevrolet,Tahoe 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,Rear-Wheel Drive,Premium,14,20,16,4750
+2024,Chevrolet,Tahoe 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.0,Rear-Wheel Drive,Diesel,21,28,24,3300
+2024,GMC,Yukon 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Regular,15,20,17,3600
+2024,GMC,Yukon 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,Rear-Wheel Drive,Premium,14,20,16,4750
+2024,GMC,Yukon 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.0,Rear-Wheel Drive,Diesel,21,27,23,3450
+2024,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,15,20,17,3600
+2024,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,14,18,16,3850
+2024,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,4-Wheel Drive,Premium,14,18,16,4750
+2024,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.0,4-Wheel Drive,Diesel,20,26,22,3600
+2024,GMC,Yukon 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,15,20,17,3600
+2024,GMC,Yukon 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,4-Wheel Drive,Premium,14,18,16,4750
+2024,GMC,Yukon 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.0,4-Wheel Drive,Diesel,20,26,22,3600
+2025,Toyota,Sequoia 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.4,Rear-Wheel Drive,Regular,21,24,22,2800
+2025,Toyota,Sequoia 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.4,Part-time 4-Wheel Drive,Regular,19,22,20,3100
+2025,Chevrolet,Tahoe 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,Rear-Wheel Drive,Premium,15,20,17,4450
+2025,Chevrolet,Tahoe 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Regular,15,20,17,3600
+2025,GMC,Yukon 2WD,Standard Sport Utility Vehicle 2WD,8.0,6.2,Rear-Wheel Drive,Premium,15,20,17,4450
+2025,GMC,Yukon 2WD,Standard Sport Utility Vehicle 2WD,8.0,5.3,Rear-Wheel Drive,Regular,15,20,17,3600
+2025,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,4-Wheel Drive,Premium,14,18,16,4750
+2025,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,15,19,17,3600
+2025,GMC,Yukon 4WD,Standard Sport Utility Vehicle 4WD,8.0,6.2,4-Wheel Drive,Premium,14,18,16,4750
+2025,GMC,Yukon 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,15,19,17,3600
+2025,Ford,Expedition 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.5,Rear-Wheel Drive,Regular,16,24,19,3250
+2025,GMC,Yukon 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.0,Rear-Wheel Drive,Diesel,21,26,23,3450
+2025,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,8.0,5.3,4-Wheel Drive,Regular,14,18,16,3850
+2025,Chevrolet,Tahoe 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.0,4-Wheel Drive,Diesel,20,26,22,3600
+2025,Ford,Expedition 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.5,Part-time 4-Wheel Drive,Regular,15,22,18,3400
+2025,GMC,Yukon 4WD,Standard Sport Utility Vehicle 4WD,6.0,3.0,4-Wheel Drive,Diesel,20,26,22,3600
+2025,Chevrolet,Tahoe 2WD,Standard Sport Utility Vehicle 2WD,6.0,3.0,Rear-Wheel Drive,Diesel,22,26,24,3300
